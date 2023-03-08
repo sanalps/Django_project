@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+django_project/__pycache__/
+
+pages/__pycache__/
